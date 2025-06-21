@@ -138,6 +138,6 @@ pio run --target uploadfs
 
 ---
 
-## My Tim
+## 👥 My Tim
 - [Siraj Nurul Bilhaq](https://github.com/Qw3rty101) - [Email](siraj.nurul@gmail.com)
 - [Fahmi Idris Anjounghan](https://github.com/Qw3rty101) - [Email](idrisanjounghan313@gmail.com)
