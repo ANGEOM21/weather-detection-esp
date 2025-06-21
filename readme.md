@@ -106,6 +106,13 @@ pio run --target uploadfs
 
 ---
 
+## 🌎 Mode Ap (acces point)
+1. Koneksikan dengan wifi Esp ```ESP8266-Rain-Detector```
+2. Jika sudah tersambung masuk ke ip ```192.168.4.1```
+3. Koneksi kan wifi yang akan di sambungkan
+
+---
+
 ## 📌 Catatan Debugging
 
 - Pastikan waktu real-time disinkronisasi (`setSyncTime()`), jika tidak TLS gagal
